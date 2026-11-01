@@ -1,0 +1,18 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backend
+fieldtech-backend/target/
+
+# Flutter / Android
+fieldtech_mobile/build/
+fieldtech_mobile/.dart_tool/
+fieldtech_mobile/android/.gradle/
+fieldtech_mobile/android/local.properties
+fieldtech_mobile/.flutter-plugins-dependencies
